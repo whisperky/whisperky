@@ -22,6 +22,7 @@ success of a dynamic Full Stack development team</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.bitcoin.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="vagrant" width="40" height="40"/> </a>
+  <a href="https://www.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/ethereum.png" alt="vagrant" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="vagrant" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -53,6 +54,6 @@ success of a dynamic Full Stack development team</h3>
   &nbsp;&nbsp;
   <a href="https://t.me/kypeace" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/channels/whisper" target="_blank" rel="noopener noreferrer"><img src="https://icons8.com/icon/30998/discord"  width="40" /></a>
+  <a href="https://discord.com/channels/whisper" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
     
 </div>
