@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Peace1030/Peace1030/blob/main/Logo.gif" />
+  <img src="https://github.com/Whisperky/peastar12101/blob/main/Logo.gif" />
 </p>
 
 <p align="center">
