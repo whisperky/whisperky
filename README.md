@@ -16,6 +16,7 @@
 <h3 align="center" >Highly skilled and experienced Software Engineer with 9 years of expertise in developing captivating Blockchain and Web
 experiences. Seeking a challenging position to utilize my technical skills and creative abilities to contribute to the
 success of a dynamic Full Stack development team</h3>
+<br></br>
 
 <div align="center"> 
 <h3 align="center">Languages and Tools:</h3>
